@@ -36,6 +36,6 @@ yarn-error.log*
 next-env.d.ts
 
 # local-cache
-data/
+# data/
 # Local Netlify folder
 .netlify
