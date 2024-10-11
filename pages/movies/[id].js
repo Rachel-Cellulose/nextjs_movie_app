@@ -47,7 +47,7 @@ export async function getStaticPaths() {
 
   return {
     paths,
-    fallback: true, // Show fallback page if the movie isnt on the website
+    fallback: false, // Show fallback page if the movie isnt on the website
   };
 }
 
