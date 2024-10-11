@@ -13,7 +13,7 @@ The Movie App is a web application that allows users to search for movies and vi
 ## Tech Stack
 - **Frontend:** Next.js, React
 - **Styling:** CSS, Tailwind CSS
-- **API:** [Movie Database API on RapidAPI](https://docs.rapidapi.com/docs/documenting-your-api)
+- **API:** [Movie Database API on RapidAPI](https://rapidapi.com/rapihub-rapihub-default/api/imdb-top-100-movies)
 - **Version Control:** Git, GitHub
 - **Deployment:** Netlify
 
